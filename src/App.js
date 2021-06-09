@@ -14,8 +14,23 @@ export default function App() {
         <footer className="App-footer">
           <small>
             {" "}
-            This application is coded by Zoe Tucker <br />
-            open-source on GitHub and hosted by Netlify
+            This application is coded by Zoe Tucker 👩‍💻 <br />
+            open-source on{" "}
+            <a
+              href="https://github.com/zoetucker/dictionary-app-react"
+              target="_blank"
+              rel="noreferrer"
+            >
+              GitHub
+            </a>
+            and hosted by{" "}
+            <a
+              href="https://zen-hopper-05ef0e.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Netlify
+            </a>
           </small>
         </footer>
       </div>
