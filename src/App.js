@@ -7,7 +7,7 @@ export default function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">Word Finder</header>
-        <h2>Which word are you looking for today?</h2>
+        <h2>Which word are you looking up today?</h2>
         <main>
           <Dictionary />
         </main>
