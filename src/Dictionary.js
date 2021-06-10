@@ -62,7 +62,9 @@ export default function Dictionary() {
             </div>
           </div>
         </form>
-        <div className="hint">sunset, love, code, technology, give, ...</div>
+        <div className="hint">
+          Suggested word: sun, moon, love, give, Thailand, ...{" "}
+        </div>
       </section>
 
       <Results results={results} />
