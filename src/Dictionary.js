@@ -63,7 +63,7 @@ export default function Dictionary() {
           </div>
         </form>
         <div className="hint">
-          Suggested word: sun, moon, love, give, Thailand, ...{" "}
+          <strong>Suggested word:</strong> sun, moon, love, give, Thailand, ...{" "}
         </div>
       </section>
 

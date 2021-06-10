@@ -4,10 +4,11 @@
 }
 
 .App a:hover {
-  color: black;
+  color: blue;
 }
 
 .App h2 {
+  color: white;
   font-family: "Montserrat", sans-serif;
   font-size: 32px;
   font-weight: 300;
@@ -16,14 +17,16 @@
 }
 
 .App .App-header {
+  color: white;
   font-family: "Montserrat", sans-serif;
   font-size: 64px;
   font-weight: 500;
-  margin: 30px auto;
+  margin: 45px auto;
   text-align: center;
 }
 
 .App .App-footer {
+  color: white;
   font-family: monospace;
   font-size: 12px;
   text-align: center;

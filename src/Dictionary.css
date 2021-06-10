@@ -4,7 +4,7 @@
   width: 75%;
 }
 .Dictionary section {
-  background: #f6ca83;
+  background: rgba(255, 255, 255, 0.6);
   border-radius: 7px;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
   margin: 20px 0;
@@ -12,16 +12,17 @@
 }
 
 .Dictionary .btn-secondary {
-  color: black;
+  color: white;
   margin: 10px 0;
   width: 100%;
   position: relative;
   bottom: 10px;
+  transition: ease-in-out;
   /* will need to work on size */
 }
 
 .Dictionary .btn-secondary:hover {
-  color: white;
+  color: black;
   background: rgba(0, 0, 0, 0.4);
 }
 
